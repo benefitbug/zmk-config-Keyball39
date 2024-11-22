@@ -17,5 +17,6 @@ include:
     shield: keyball39_left
   - board: nice_nano_v2
     shield: keyball39_right
+    snippet: zmk-usb-logging
   - board: nice_nano_v2
     shield: settings_reset
