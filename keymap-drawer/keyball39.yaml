@@ -85,21 +85,21 @@ layers:
   - {t: '3', s: '#'}
   - {t: '4', s: $}
   - {t: '5', s: '%'}
-  - {t: '[', s: '{'}
+  - {t: '`', s: '~'}
   - {t: '-', s: _}
   - $$mdi:arrow-up-bold$$
   - {t: '=', s: +}
-  - {t: ']', s: '}'}
+  - {t: \, s: '|'}
   - $$mdi:keyboard-esc$$
   - $$mdi:mouse-right-click-outline$$
   - SCROLL
   - $$mdi:mouse-left-click-outline$$
   - $$mdi:backspace-reverse-outline$$
-  - {t: '`', s: '~'}
+  - {t: '[', s: '{'}
   - $$mdi:arrow-left-bold$$
   - $$mdi:arrow-down-bold$$
   - $$mdi:arrow-right-bold$$
-  - .
+  - {t: ']', s: '}'}
   - {t: '1', s: '!'}
   - {t: '2', s: '@'}
   - {t: '3', s: '#'}
