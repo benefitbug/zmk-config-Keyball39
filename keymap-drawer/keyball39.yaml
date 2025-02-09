@@ -118,7 +118,7 @@ layers:
   - {type: held}
   - LGUI
   - {t: '$$mdi:transfer$$', type: trans}
-  - {t: SCROLL, h: toggle}
+  - {t: NUM, h: toggle}
   FUN:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
