@@ -134,13 +134,13 @@ layers:
   - $$mdi:bluetooth-off$$
   - $$mdi:volume-low$$
   - $$mdi:volume-high$$
-  - MUTE
+  - $$mdi:volume-off$$
   - PLAY PAUSE
-  - {t: '$$mdi:transfer$$', type: trans}
+  - $$mdi:skip-previous$$
   - $$mdi:volume-low$$
   - $$mdi:volume-high$$
-  - MUTE
-  - {t: '$$mdi:transfer$$', type: trans}
+  - $$mdi:volume-off$$
+  - $$mdi:skip-next$$
   - F1
   - F2
   - F3
